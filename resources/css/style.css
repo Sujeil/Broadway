@@ -5,6 +5,8 @@ body{
 
 #header{
   background-image: url("the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #header h1{
@@ -16,13 +18,13 @@ body{
 #header p a:link{
   font-size: 18px;
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 #header p a:visited{
   font-size: 18px;
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 #process h2{
@@ -42,6 +44,8 @@ body{
 #designed{
   background-image: url("the-flatiron-building.png");
   color: white;
+  font-size: 23px;
+  font-weight: bold;
 }
 
 #footer{
@@ -52,7 +56,7 @@ body{
 }
 
 #footer p a:link{
-  text-decoration: underline;;
+  text-decoration: underline;
 }
 
 #footer p a:visited{
