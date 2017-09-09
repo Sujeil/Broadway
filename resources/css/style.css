@@ -57,6 +57,7 @@ body{
 
 #footer p a:link{
   text-decoration: underline;
+  color: white;
 }
 
 #footer p a:visited{
