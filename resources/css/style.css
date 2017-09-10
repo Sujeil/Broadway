@@ -43,11 +43,14 @@ body{
 
 #designed{
   background-image: url("the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#designed h3{
   color: white;
   font-size: 23px;
   font-weight: bold;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 #footer{
